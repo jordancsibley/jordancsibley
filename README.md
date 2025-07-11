@@ -8,9 +8,13 @@
 
 📝 Personal website: [jordancsibley.github.io](https://jordancsibley.github.io/)
 
+⚡ Check out my pinned repositories to see some of the recent projects I have worked on! 
+
 ### What I'm up to 
 
-Currently, I am a Master of Environmental Data Science (MEDS) student at the Bren School of Environmental Science & Management. During my time here at Bren, I aim to harness my analytical prowess in data science to drive impactful contributions to scientific research and sustainable solutions for marine coastal ecosystems.
+I am a recent graduate of the Bren School of Environmental Science & Management where I pursued a Master of Environmental Data Science (MEDS). I am passionate about using analytical tools to support scientific research and develop sustainable solutions for marine and coastal ecosystems.  
+
+Currently, I am working as a Temporary Data Specialist for [Island Conservation](https://www.islandconservation.org/), a non-profit company that is focused on restoring islands for nature and people worldwide. In this role I am applying my data science skills to clean up real-world conservation metrics data to prepare for archival, as well as developing ways to streamline and organize their data management practices. 
 
 
 ### Education 
