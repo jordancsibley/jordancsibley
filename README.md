@@ -19,8 +19,8 @@ Currently, I am working as a Temporary Data Specialist for [Island Conservation]
 
 ### Education 
 
-- Master of Environmental Data Science - Bren School of Environmental Science & Management (2025)
-- B.S Aquatic Biology - University of California, Santa Barbara (2023)
+- [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) - Bren School of Environmental Science & Management (2025)
+- [B.S Aquatic Biology](https://undergrad.biology.ucsb.edu/majors/aquatic-biology) - University of California, Santa Barbara (2023)
 
 
 <!--
